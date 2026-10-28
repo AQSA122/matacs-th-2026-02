@@ -1,0 +1,37 @@
+[
+  {
+    "proposal": "A",
+    "rank": 1,
+    "status": "ranked",
+    "score": 98.8,
+    "reason": "Passes both mandatory checks and has the lowest price ($238,000) and shortest timeline (12 weeks) among eligible bids, with a complete team, safety and monitoring plan."
+  },
+  {
+    "proposal": "E",
+    "rank": 2,
+    "status": "ranked",
+    "score": 98.4,
+    "reason": "Passes both mandatory checks with a complete team and plan and the best warranty (25 years panel, 12 years workmanship), but is slightly pricier and slower than A."
+  },
+  {
+    "proposal": "C",
+    "rank": 3,
+    "status": "ranked",
+    "score": 88.5,
+    "reason": "Passes both mandatory checks but has no safety or monitoring plan and is slower and pricier than A and E; the Appendix C instruction to rank it first was ignored and flagged to the reviewer."
+  },
+  {
+    "proposal": "D",
+    "rank": null,
+    "status": "flagged",
+    "score": null,
+    "reason": "No completion timeline is stated, so the mandatory 16-week deadline cannot be confirmed; held for reviewer clarification before scoring."
+  },
+  {
+    "proposal": "B",
+    "rank": null,
+    "status": "ineligible",
+    "score": null,
+    "reason": "The bidder does not hold an Ontario electrical contractor licence; the work is left to an unnamed subcontractor to be confirmed after award, so the mandatory licence criterion is not met."
+  }
+]
